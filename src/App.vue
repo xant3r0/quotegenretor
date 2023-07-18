@@ -102,6 +102,8 @@ export default {
   display:flex;
   flex-direction: column;
   border-radius:5px;
+  margin-left:10vw;
+  margin-right:10vw;
   }
 }
 </style>
